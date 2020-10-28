@@ -1,0 +1,13 @@
+name: bridge
+type: theme
+base theme: null
+description: A basic theme that supports page per page customization through various assett libraries.
+core: 8.x
+libraries:
+  - Bridge/global
+
+# Region metadata.
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'

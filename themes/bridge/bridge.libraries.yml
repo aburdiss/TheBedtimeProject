@@ -1,0 +1,18 @@
+global:
+  version: 1.0
+  css:
+    base:
+      assets/global/normalize.css: {}
+      '//fonts.googleapis.com/css2?family=Montserrat+Subrayada&family=Quicksand&display=swap': { type: external }
+    theme:
+      assets/global/global.css: { weight: 10 }
+  js:
+    assets/global/global.js: {}
+
+home:
+  version: 1.0
+  css:
+    theme:
+      assets/home/home.css: { weight: 10 }
+  js:
+    assets/home/home.js: {}

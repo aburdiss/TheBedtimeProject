@@ -1,0 +1,7 @@
+global:
+  version: 1.0
+  css:
+    theme:
+      global/global.css: { weight: 10 }
+  js:
+    global/global.js: {}

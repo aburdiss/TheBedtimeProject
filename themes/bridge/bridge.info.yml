@@ -1,0 +1,13 @@
+name: Bridge
+type: theme
+description: 'An immaginative theme that will bridge this reality with the next.'
+core: 8.x
+base theme: null
+libraries:
+  - bridge/global
+
+# Region metadata.
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
